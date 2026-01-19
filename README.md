@@ -4,7 +4,7 @@ A real-time pizza delivery management system demonstrating TCP/UDP socket progra
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project implements a **multi-client pizza delivery system** using C# socket programming with: 
 
@@ -26,7 +26,7 @@ This project implements a **multi-client pizza delivery system** using C# socket
 
 ---
 
-## 🛠️ Technical Requirements
+## Technical Requirements
 
 ### Frameworks & Libraries
 - **. NET Framework 4.7.2+**
@@ -47,7 +47,7 @@ This project implements a **multi-client pizza delivery system** using C# socket
 
 ---
 
-## 📦 How to Build the Project
+## How to Build the Project
 
 ### 1. Extract Files
 ```bash
@@ -77,7 +77,7 @@ PizzaDeliverySystem/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Start the Server
 
@@ -143,7 +143,7 @@ Drivers receive orders automatically in the background.
 
 ---
 
-## 🧪 How to Test Main Features
+## How to Test Main Features
 
 ### Test 1: Basic Order Flow
 **Setup:** 1 Server + 1 Driver + 1 Customer  
@@ -227,7 +227,7 @@ Drivers receive orders automatically in the background.
 
 ---
 
-## ⚠️ Known Issues & Limitations
+## Known Issues & Limitations
 
 1. **UDP Port Limitation**  
    - Only first customer gets UDP driver tracking
@@ -257,18 +257,6 @@ Drivers receive orders automatically in the background.
 7. **Console Emoji Support**  
    - May show `?? ` on some Windows configurations
    - Visual only, functionality unaffected
-
----
-
-## 🙏 Credits
-
-### Developer
-- **Name:** [Your Name]
-- **Student ID:** [Your ID]
-- **Course:** [Course Code - Network Programming]
-- **Institution:** [Your University]
-- **Date:** December 31, 2025
-
 ---
 
 ### AI Assistance
@@ -306,7 +294,7 @@ Drivers receive orders automatically in the background.
 
 ---
 
-## 📄 Academic Integrity
+## Academic Integrity
 
 All code written by student with AI assistance as documented.  No unauthorized code copying.
 
