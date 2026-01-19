@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Client/CustomerClient.csproj" />
+  <Project Path="Common/Common.csproj" />
+  <Project Path="DriverClient/DriverClient.csproj" />
+  <Project Path="Server/Server.csproj" />
+</Solution>
