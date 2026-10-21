@@ -18,7 +18,7 @@ This project implements a **multi-client pizza delivery system** using C# socket
 ✅ Async/await - Concurrent client handling  
 ✅ Thread-safe collections - ConcurrentDictionary, ConcurrentQueue  
 
-**Bonus Features (+20 pts):**  
+**Bonus Features:**  
 🏆 Traffic Jam Simulation - Random delivery delays  
 🏆 Order Stealing - Drivers can steal orders if closer  
 🏆 Rush Order Priority - Separate queue system  
